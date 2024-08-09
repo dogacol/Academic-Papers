@@ -1,6 +1,7 @@
+--- title: "Depiction of Violence in the Early Films of Sogo Ishii" ---
 1
 
-1. Depiction of Violence in the Early Films of Sogo Ishii
+# Depiction of Violence in the Early Films of Sogo Ishii
 
 **_Doğa Çöl_** _(Istanbul Medipol University)_
 

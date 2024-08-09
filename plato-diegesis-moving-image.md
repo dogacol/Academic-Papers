@@ -1,3 +1,6 @@
+
+--- title: "The Possibility of Plato’s Diegesis Through the Moving Image" ---
+
 # The Possibility of Plato’s Diegesis Through the Moving Image
 
 ### Doğa Çöl<sup>1</sup>

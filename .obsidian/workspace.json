@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "0dfd606a6113a214",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c8aa1022344fe33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae86eead53240921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "visual-privacy-virtual-tour.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bad8b7e75a34b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a18a34dedfc2ada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "459e1f7370448946",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49f243921b605220",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07b111ba162793de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "366df6f2667441e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "89adf2070cba18e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb333349be62ccdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "visual-privacy-virtual-tour.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd11da218fd3bbe4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "visual-privacy-virtual-tour.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf748774ab5c82df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "21c3589dff4d04de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "visual-privacy-virtual-tour.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ae86eead53240921",
+  "lastOpenFiles": [
+    "tiktok-experience.md",
+    "visual-privacy-virtual-tour.md",
+    "ishii-violence.md",
+    "plato-diegesis-moving-image.md",
+    "Cinema+studies_+Different+perspectives.pdf"
+  ]
+}

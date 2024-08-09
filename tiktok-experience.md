@@ -1,4 +1,6 @@
-**The TikTok Experience and Everything Everywhere All At Once: A Brief Analysis of Film Form<sup>[\[1\]](#footnote-1)</sup>**
+--- title: "The TikTok Experience and Everything Everywhere All At Once: A Brief Analysis of Film Form" ---
+
+# **The TikTok Experience and Everything Everywhere All At Once: A Brief Analysis of Film Form<sup>[\[1\]](#footnote-1)</sup>**
 
 **_Tik Tok Deneyimi ve Everything Everywhere All At Once: Film Biçiminin Kısa Bir Çözümlemesi_**
 
