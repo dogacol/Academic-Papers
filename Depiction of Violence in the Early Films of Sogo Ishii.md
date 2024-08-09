@@ -1,5 +1,4 @@
---- title: "Depiction of Violence in the Early Films of Sogo Ishii" ---
-1
+
 
 # Depiction of Violence in the Early Films of Sogo Ishii
 

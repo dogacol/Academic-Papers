@@ -1,5 +1,3 @@
---- title: "Gerçekçilik Karşıtı Şehir Senfonisi ve Sanal Gerçekçi Şehir Yürüme Turu Videosu: Gündelik İnsan ve Görsel Gizlilik" ---
-
 
 # **Gerçekçilik Karşıtı Şehir Senfonisi ve Sanal Gerçekçi Şehir Yürüme Turu Videosu: Gündelik İnsan ve Görsel Gizlilik**
 

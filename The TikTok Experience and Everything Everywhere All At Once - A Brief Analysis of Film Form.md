@@ -1,4 +1,3 @@
---- title: "The TikTok Experience and Everything Everywhere All At Once: A Brief Analysis of Film Form" ---
 
 # The TikTok Experience and Everything Everywhere All At Once: A Brief Analysis of Film Form<sup>[\[1\]](#footnote-1)</sup>
 
