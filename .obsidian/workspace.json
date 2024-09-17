@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4c8aa1022344fe33",
+        "id": "8bbe3862a78197b3",
         "type": "tabs",
         "children": [
           {
-            "id": "ae86eead53240921",
+            "id": "75429587ac1edc49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The TikTok Experience and Everything Everywhere All At Once - A Brief Analysis of Film Form.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The TikTok Experience and Everything Everywhere All At Once - A Brief Analysis of Film Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The TikTok Experience and Everything Everywhere All At Once - A Brief Analysis of Film Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The TikTok Experience and Everything Everywhere All At Once - A Brief Analysis of Film Form.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae86eead53240921",
+  "active": "75429587ac1edc49",
   "lastOpenFiles": [
-    "The Possibility of Plato’s Diegesis Through the Moving Image.md",
-    "Gerçekçilik Karşıtı Şehir Senfonisi ve Sanal Gerçekçi Şehir Yürüme Turu Videosu - Gündelik İnsan ve Görsel Gizlilik.md",
     "Depiction of Violence in the Early Films of Sogo Ishii.md",
+    "Gerçekçilik Karşıtı Şehir Senfonisi ve Sanal Gerçekçi Şehir Yürüme Turu Videosu - Gündelik İnsan ve Görsel Gizlilik.md",
+    "The Possibility of Plato’s Diegesis Through the Moving Image.md",
     "The TikTok Experience and Everything Everywhere All At Once - A Brief Analysis of Film Form.md",
     "Cinema+studies_+Different+perspectives.pdf"
   ]
