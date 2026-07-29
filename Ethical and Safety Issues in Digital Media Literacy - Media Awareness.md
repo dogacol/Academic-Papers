@@ -1,3 +1,8 @@
+---
+title: "Ethical and Safety Issues in Digital Media Literacy: Media Awareness"
+year: 2026
+---
+
 # Ethical and Safety Issues in Digital Media Literacy: Media Awareness
 
 **Abstract**

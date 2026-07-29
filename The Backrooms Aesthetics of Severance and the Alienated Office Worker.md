@@ -1,3 +1,8 @@
+---
+title: "The Backrooms Aesthetics of Severance and the Alienated Office Worker"
+year: 2025
+---
+
 # The Backrooms Aesthetics of Severance and the Alienated Office Worker
 
 **Abstract**

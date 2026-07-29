@@ -1,3 +1,8 @@
+---
+title: "Simone Weil's Ethics of Love and Film Form"
+year: 2026
+---
+
 # Simone Weil's Ethics of Love and Film Form
 
 **Abstract**

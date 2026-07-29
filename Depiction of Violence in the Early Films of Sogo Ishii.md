@@ -1,4 +1,7 @@
-
+---
+title: "Depiction of Violence in the Early Films of Sogo Ishii"
+year: 2024
+---
 
 # Depiction of Violence in the Early Films of Sogo Ishii
 

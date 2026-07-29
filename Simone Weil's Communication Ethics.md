@@ -1,3 +1,8 @@
+---
+title: "Simone Weil's Communication Ethics"
+year: 2026
+---
+
 # Simone Weil's Communication Ethics
 
 **Abstract**
