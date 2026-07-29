@@ -1,4 +1,7 @@
-
+---
+title: "The Possibility of Plato's Diegesis Through the Moving Image"
+year: 2022
+---
 
 # The Possibility of Plato’s Diegesis Through the Moving Image
 

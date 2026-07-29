@@ -1,3 +1,8 @@
+---
+title: "Stylistic Analysis of Disinformation in the Editing of Early Propaganda Films"
+year: 2026
+---
+
 # Stylistic Analysis of Disinformation in the Editing of Early Propaganda Films
 
 **Abstract**

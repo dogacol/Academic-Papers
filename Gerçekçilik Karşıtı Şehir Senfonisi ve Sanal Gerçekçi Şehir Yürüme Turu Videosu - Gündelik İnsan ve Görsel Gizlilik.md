@@ -1,3 +1,7 @@
+---
+title: "Gerçekçilik Karşıtı Şehir Senfonisi ve Sanal Gerçekçi Şehir Yürüme Turu Videosu: Gündelik İnsan ve Görsel Gizlilik"
+year: 2024
+---
 
 # **Gerçekçilik Karşıtı Şehir Senfonisi ve Sanal Gerçekçi Şehir Yürüme Turu Videosu: Gündelik İnsan ve Görsel Gizlilik**
 

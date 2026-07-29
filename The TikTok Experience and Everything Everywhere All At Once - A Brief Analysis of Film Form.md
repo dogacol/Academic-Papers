@@ -1,3 +1,7 @@
+---
+title: "The TikTok Experience and Everything Everywhere All At Once: A Brief Analysis of Film Form"
+year: 2023
+---
 
 # The TikTok Experience and Everything Everywhere All At Once: A Brief Analysis of Film Form<sup>[\[1\]](#footnote-1)</sup>
 

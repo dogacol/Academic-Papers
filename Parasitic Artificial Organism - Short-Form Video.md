@@ -1,3 +1,8 @@
+---
+title: "Parasitic Artificial Organism: Short-Form Video"
+year: 2025
+---
+
 # Parasitic Artificial Organism: Short-Form Video
 
 **Abstract**
